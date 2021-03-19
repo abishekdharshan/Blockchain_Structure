@@ -1,15 +1,15 @@
-# Simple_Blockchain_in_5_Minutes
+# The Structure of a Simple Blockchain/Distributed Ledger
 
 ## Overview 
 
-This is the code for [this](https://youtu.be/MViBvQXQ3mM) video on Youtube by Siraj Raval on building a simple blockchain. [Here](https://github.com/howCodeORG/Simple-Python-Blockchain) is the colab. 
+This code illustrates building a simple blockchain. [Here](https://github.com/howCodeORG/Simple-Python-Blockchain) is the original colab. 
 
 ## Dependencies
 
 * hashlib
 * datetime
 
-Dependencies can be installed using [pip](https://pypi.org/project/pip/). But actually just run this in colab so you don't need to install anything. 
+Dependencies can be installed using [pip](https://pypi.org/project/pip/). However, you can run this directly in colab so there is no requirement to install anything.
 
 ## Usage 
 
@@ -17,4 +17,4 @@ You can download the juypter notebook and run it locally. Also, here is the [col
 
 ## Credits
 
-The credits for the original code go to [howcodeORG](https://github.com/howCodeORG/Simple-Python-Blockchain). I've merely created a wrapper to get people started. 
+The credits for the original code go to [howcodeORG](https://github.com/howCodeORG/Simple-Python-Blockchain).
